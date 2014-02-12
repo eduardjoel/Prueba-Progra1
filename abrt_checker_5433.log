@@ -1,0 +1,5 @@
+Uncaught java.lang.Error exception in thread "main" in a method Examenparcial.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "AssignmentOperator Expression" to complete Expression
+
+	at Examenparcial.main(Examenparcial.java:54) [file:/home/alumno/Proyecto/Eduard/Examen_Eduard/bin/Examenparcial.class]
